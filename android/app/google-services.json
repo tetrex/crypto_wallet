@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "199284370316",
+    "firebase_url": "https://crypto-wallet-dbbac.firebaseio.com",
+    "project_id": "crypto-wallet-dbbac",
+    "storage_bucket": "crypto-wallet-dbbac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:199284370316:android:8a825a14e083e16dc244a9",
+        "android_client_info": {
+          "package_name": "com.example.crypto_wallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "199284370316-nbkkrmd9l0fdl2en5h3hfrtlr3e97dtb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4zhXt4DytWQSVs-YmCrfrNa5spSXSx-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "199284370316-nbkkrmd9l0fdl2en5h3hfrtlr3e97dtb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
